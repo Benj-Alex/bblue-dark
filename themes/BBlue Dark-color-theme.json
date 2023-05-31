@@ -1,20 +1,5 @@
 {
 	"name": "BBlue Dark",
-	"displayName": "Bblue Dark",
-	"description": "Soft dark theme with all sorts of blues",
-	"version": "1.0.0",
-	"publisher": "Benander",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Benj-Alex/bblue-dark"
-	},
-	"keywords": [
-		"theme",
-		"dark theme",
-		"soft",
-		"blue",
-		"Benander"
-	],
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
