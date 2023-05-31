@@ -6,8 +6,15 @@
 	"publisher": "Benander",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/Benj-Alex/bblue-dark"
 	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"soft",
+		"blue",
+		"Benander"
+	],
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
